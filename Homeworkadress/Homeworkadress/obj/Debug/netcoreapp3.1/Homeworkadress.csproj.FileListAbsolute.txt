@@ -1,0 +1,11 @@
+C:\Users\victoria.be\source\repos\Victoria37783\adressbook\Homeworkadress\Homeworkadress\bin\Debug\netcoreapp3.1\Homeworkadress.exe
+C:\Users\victoria.be\source\repos\Victoria37783\adressbook\Homeworkadress\Homeworkadress\bin\Debug\netcoreapp3.1\Homeworkadress.deps.json
+C:\Users\victoria.be\source\repos\Victoria37783\adressbook\Homeworkadress\Homeworkadress\bin\Debug\netcoreapp3.1\Homeworkadress.runtimeconfig.json
+C:\Users\victoria.be\source\repos\Victoria37783\adressbook\Homeworkadress\Homeworkadress\bin\Debug\netcoreapp3.1\Homeworkadress.runtimeconfig.dev.json
+C:\Users\victoria.be\source\repos\Victoria37783\adressbook\Homeworkadress\Homeworkadress\bin\Debug\netcoreapp3.1\Homeworkadress.dll
+C:\Users\victoria.be\source\repos\Victoria37783\adressbook\Homeworkadress\Homeworkadress\bin\Debug\netcoreapp3.1\Homeworkadress.pdb
+C:\Users\victoria.be\source\repos\Victoria37783\adressbook\Homeworkadress\Homeworkadress\obj\Debug\netcoreapp3.1\Homeworkadress.csprojAssemblyReference.cache
+C:\Users\victoria.be\source\repos\Victoria37783\adressbook\Homeworkadress\Homeworkadress\obj\Debug\netcoreapp3.1\Homeworkadress.AssemblyInfoInputs.cache
+C:\Users\victoria.be\source\repos\Victoria37783\adressbook\Homeworkadress\Homeworkadress\obj\Debug\netcoreapp3.1\Homeworkadress.AssemblyInfo.cs
+C:\Users\victoria.be\source\repos\Victoria37783\adressbook\Homeworkadress\Homeworkadress\obj\Debug\netcoreapp3.1\Homeworkadress.dll
+C:\Users\victoria.be\source\repos\Victoria37783\adressbook\Homeworkadress\Homeworkadress\obj\Debug\netcoreapp3.1\Homeworkadress.pdb
